@@ -6,7 +6,7 @@
 </p>
 
 This repository offers host lists to use for blacklisting, compiled from several sources.  
-Lists are sorted, cleaned and compressed.
+Lists are sorted, cleaned.
 
 Visit the [download page](https://projects.hnaderi.dev/blacklist/) to download lists.
 

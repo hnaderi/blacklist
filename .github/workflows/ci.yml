@@ -21,7 +21,7 @@ jobs:
           mkdir public
 
           ./generate-domains-blocklist.py -o mainlist.txt -r empty.txt -a empty.txt
-          sed -E "/^#|^$/d" mainlist.txt | sort -u | gzip > public/mainlist.txt.gz
+          sed -E "/^#|^$/d" mainlist.txt | sort -u > public/mainlist.txt
 
           tree -H '.' \
                  -L 1 \
@@ -33,7 +33,7 @@ jobs:
                  -I "index.html" \
                  -T 'Downloads' \
                  -s -D \
-                 -P "*.gz" \
+                 -P "*.txt" \
                  -o public/index.html \
                  public
 
