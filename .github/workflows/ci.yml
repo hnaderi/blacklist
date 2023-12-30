@@ -1,0 +1,30 @@
+name: Build list
+on:
+  push:
+    branches: ['**']
+    tags: [v*]
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.11"
+
+      - name: Build new lists
+        run: |
+          mkdir public
+
+          ./generate-domains-blocklist.py -o blocklist.txt -r empty.txt -a empty.txt
+          sed -E "/^#|^$/d" blocklist.txt | sort -u | gzip > public/blocklist.txt.gz
+
+      - name: Publish site
+        uses: peaceiris/actions-gh-pages@v3.9.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
