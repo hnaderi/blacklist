@@ -23,6 +23,20 @@ jobs:
           ./generate-domains-blocklist.py -o blocklist.txt -r empty.txt -a empty.txt
           sed -E "/^#|^$/d" blocklist.txt | sort -u | gzip > public/blocklist.txt.gz
 
+          tree -H '.' \
+          -L 1 \
+          --noreport \
+          --dirsfirst \
+          --charset utf-8 \
+          --ignore-case \
+          --timefmt '%d-%b-%Y %H:%M' \
+          -I "index.html" \
+          -T 'Downloads' \
+          -s -D \
+          -P "*.gz" \
+          -o public/index.html \
+          public
+
       - name: Publish site
         uses: peaceiris/actions-gh-pages@v3.9.3
         with:
