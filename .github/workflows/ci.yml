@@ -20,7 +20,7 @@ jobs:
         run: |
           mkdir public
 
-          ./generate-domains-mainlist.py -o mainlist.txt -r empty.txt -a empty.txt
+          ./generate-domains-blocklist.py -o mainlist.txt -r empty.txt -a empty.txt
           sed -E "/^#|^$/d" mainlist.txt | sort -u | gzip > public/mainlist.txt.gz
 
           tree -H '.' \
