@@ -38782,7 +38782,6 @@ api.ryanyao.design
 api.safegraph.com
 api.sail-personalize.com
 api.salmonads.com
-api.sardine.ai
 api.sdk.zadn.vn
 api.sec.intl.miui.com
 api.sec.miui.com
@@ -54894,7 +54893,6 @@ bdhw.me
 bdiaccs.global.ssl.fastly.net
 bdiafjonpk.xyz
 bdickh.globalgolf.com
-bdipsumv.top
 bdiryh.com
 bditinstitute.com
 bdj5.terrassesmontecarlosbm.com
@@ -71276,6 +71274,7 @@ bxnoflryajxn.com
 bxnor.buzz
 bxnxdlb.xyz
 bxo.com
+bxoaeju.icu
 bxoiksm.xyz
 bxost.buzz
 bxpartner.com
@@ -135028,7 +135027,6 @@ euzp.com
 ev-dating.com
 ev-gos.top
 ev.api.bdg.com
-ev.indianexpress.com
 ev.kck.st
 ev.tpocdm.com
 ev0lve.cf
@@ -176513,6 +176511,7 @@ haholebuzezotim.info
 hahoter.com
 hahqzhnfc.ml
 hahscalusar.guru
+hahusa.top
 hahw.com
 hahwa0404.ddnd.net
 hahwa0404.ddns.net
@@ -275263,6 +275262,7 @@ nzkmud.com
 nzm.one
 nzme-ads.co.nz
 nzmkzl.mytheresa.com
+nznkaq5.cn
 nzoo922.no-ip.biz
 nzozmedicsan.pl
 nzpersonals.info
@@ -277832,6 +277832,7 @@ ofdow.com
 ofdrapiona.com
 ofdwcjnko.us
 ofdyn.com
+ofebyk.xyz
 ofeideinieghihfo.ru
 ofenbuy.com
 ofer.elespcoinn.site
@@ -281097,6 +281098,7 @@ omivygvi.bazar
 omivygyw.bazar
 omiwfmnejorf.in
 omjigrivrccwcn.xyz
+omjqukadtolg.com
 omk.nl
 omka11.duckdns.org
 omkaexyjnpj.com
@@ -298398,6 +298400,7 @@ pigeon123.xyz
 pigeon143.ddns.net
 pigeonmail.bid
 pigeonwings.in
+piggiepepo.xyz
 pigglywigglyqq.com
 piggycloset.com
 piggyinpolkadots.com
@@ -300616,6 +300619,7 @@ plausible.ams.to
 plausible.app.kdojang.com
 plausible.app.tlschedule.com
 plausible.as207960.net
+plausible.avris.it
 plausible.bablab.com
 plausible.bacanalia.net
 plausible.banovo.de
@@ -319374,6 +319378,7 @@ rebloco.com.br
 reblownwinare.website
 rebluemopeier.com
 reboderia.online
+rebojf.xyz
 rebon.org
 reboneperani.host
 rebor.xyz
@@ -388621,6 +388626,7 @@ trackgoogle.at
 trackguard.net
 trackid-gb192739.com
 trackid-jm14e2gb.com
+trackid.globoid.globo.com
 trackimpression.com
 tracking-1611167402.us-east-1.elb.amazonaws.com
 tracking-7522.laforma.co.za
@@ -395009,6 +395015,7 @@ tvpolskainfo.pl
 tvporinternet.info
 tvpot.system-ns.org
 tvpoy.xyz
+tvpqnh.xyz
 tvpqrydt.xyz
 tvprivado.net
 tvprocessing.com
