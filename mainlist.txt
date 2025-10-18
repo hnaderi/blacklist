@@ -18018,6 +18018,13 @@ acdn.space
 acdpe.cf
 acdpe.ml
 acdpedia.com
+acds-a.prod.ap-southeast-1.vidible.tv
+acds-a.prod.eu-west-1.vidible.tv
+acds-b.prod.eu-west-1.vidible.tv
+acds-b.prod.us-east-1.vidible.tv
+acds.prod.ap-southeast-1.vidible.tv
+acds.prod.eu-west-1.vidible.tv
+acds.prod.us-east-1.vidible.tv
 acdswd.cn
 acdunonobc.com
 ace-adserver.com
@@ -20313,6 +20320,7 @@ adaptix.cloud
 adaptlipclamour.com
 adaptonnerve.xyz
 adaptunemployed.com
+adaptv.vidible.tv
 adara.com
 adaraanalytics.com
 adaranth.com
@@ -22873,6 +22881,8 @@ adrunnr.com
 ads-6686.top
 ads-9gag-lol.9gaging.com
 ads-abc.com
+ads-adaptv-b.vidible.tv
+ads-adaptv.vidible.tv
 ads-alpha.ewscloud.com
 ads-analytic.com
 ads-ap-venues.yinzcam.com
@@ -22887,6 +22897,7 @@ ads-api.stuff.co.nz
 ads-api.tiktok.com
 ads-api.twitter.com
 ads-api.videy.co
+ads-b.vidible.tv
 ads-backend.chaincliq.com
 ads-bg.net
 ads-bi.zenkube.com
@@ -22960,6 +22971,7 @@ ads-server.mxplay.com
 ads-service.api.linkme.global
 ads-sg.tiktok.com
 ads-srv.net
+ads-stage-adaptv.vidible.tv
 ads-static.recon.com
 ads-stats.com
 ads-stream.com
@@ -22970,6 +22982,8 @@ ads-ti.com
 ads-tm-glb.click
 ads-tracking.beopinion.com
 ads-tracking.collectiveaudience.co
+ads-trk-stage.vidible.tv
+ads-trk.vidible.tv
 ads-twitter.com
 ads-union.jd.com
 ads-v-darwin.hulu.com
@@ -23283,6 +23297,7 @@ ads.desktopdollars.com
 ads.desktopscans.com
 ads.desmoinesregister.com
 ads.detelefoongids.nl
+ads.dev.vidible.tv
 ads.deviantart.com
 ads.devicebondage.com
 ads.devmates.com
@@ -23316,7 +23331,6 @@ ads.draugas.lt
 ads.dreamjobcompany.com
 ads.drf.com
 ads.dropspam.com
-ads.dtpnetwork.biz
 ads.dugwood.com
 ads.dvdreview.com
 ads.dygdigital.com
@@ -23515,7 +23529,6 @@ ads.home.vn
 ads.homedy.net
 ads.hopla.to
 ads.hornypharaoh.com
-ads.horsehero.com
 ads.horyzon-media.com
 ads.host.camz.com
 ads.hsoub.com
@@ -24208,6 +24221,7 @@ ads.viber.com
 ads.videoadvertising.com
 ads.videofen.com
 ads.videy.co
+ads.vidible.tv
 ads.vidsense.com
 ads.vietbao.vn
 ads.vipcams.com
@@ -38451,6 +38465,7 @@ anox.best
 anoxiabrains.shop
 anoxiasense.live
 anoy.zapto.org
+anp.vidible.tv
 anpaijia.website
 anperbue.cf
 anpjcoapgd.com
@@ -38544,6 +38559,7 @@ answers.teradata.in
 answers.teradata.jp
 answers.teradata.pl
 answers.teradata.se
+answers.vidible.tv
 answersbybig.no-ip.biz
 answerscloud.com
 answersegeoge2022.ru
@@ -39339,10 +39355,12 @@ aokohc.fun
 aokpcaledonia.org
 aokqftjypnrrg.website
 aokxcojgnjjkv.online
+aol-career-tlv.vidible.tv
 aol-web.com
 aol.blue
 aol.cm
 aol.spb.su
+aol.vidible.tv
 aol32.cn
 aoldaily.com
 aolfgmqkvkwdhjg.com
@@ -39802,6 +39820,7 @@ api-1.duckdns.org
 api-1www.b2bmktg.com
 api-2-goldenads.top
 api-a.op-mobile.opera.com
+api-a.vidible.tv
 api-access.pangolin-sdk-toutiao1.com
 api-access.pangolin-sdk-toutiao2.com
 api-access.pangolin-sdk-toutiao3.com
@@ -39882,6 +39901,7 @@ api-restlet.com
 api-router.us-east-1.unbounce.com
 api-saison.mchangahw.top
 api-sdk.beaconbank.jp
+api-stage.vidible.tv
 api-statcounter-de.visitor-analytics.io
 api-tel.xyz
 api-telemetry.servers.getgo.com
@@ -39973,6 +39993,7 @@ api.datingclix.com
 api.deep-ad.com
 api.deep.bi
 api.deeplink.dev
+api.dev.vidible.tv
 api.device.xiaomi.net
 api.dhlsupport.in
 api.digitalpiloten.org
@@ -40094,6 +40115,7 @@ api.nas.nct.vn
 api.newsfeed.intl.miui.com
 api.ngamgaixinh.art
 api.oneaudience.com
+api.onereporting.vidible.tv
 api.onetag.com
 api.osano.com
 api.ozui.vn
@@ -40109,6 +40131,7 @@ api.plyair.com
 api.policeel.com
 api.presspage.com
 api.primecaster.net
+api.prod.onereporting.vidible.tv
 api.proofpositivemedia.com
 api.pubfinity.com
 api.pubwise.io
@@ -40151,6 +40174,7 @@ api.south.kontagent.net
 api.spotify.us.com
 api.sprig.com
 api.ssp.xcultur.com
+api.stage.onereporting.vidible.tv
 api.stats.appa.pe
 api.statsig.com
 api.subiz.com.vn
@@ -44306,6 +44330,7 @@ artiealtiery.xyz
 artiellerhow.space
 artiesltd2-free.xyz
 artifacia.store
+artifactory-elb.vidible.tv
 artifice1112.no-ip.biz
 artificialintelligenceseo.com
 artificialrobotics.online
@@ -51933,6 +51958,7 @@ b2bnetlinkone.kozow.com
 b2bseller.ga
 b2buk.page.com
 b2bx.net
+b2c-feedapi.vidible.tv
 b2c.com
 b2d.no-ip.biz
 b2d.no-ip.info
@@ -52261,6 +52287,7 @@ babaloo.duckdns.org
 babam.zapto.org
 babamaturu.cf
 babamrbads.net
+babanetwork.vidible.tv
 babanjrat.duckdns.org
 babanmak.com
 babanovex.cf
@@ -54441,7 +54468,6 @@ banner.easyspace.com
 banner.elisa.net
 banner.etargeting.mobifone.vn
 banner.euroads.no
-banner.eurogrand.com
 banner.finzoom.ro
 banner.goldenpalace.com
 banner.hpmdnetwork.ru
@@ -56002,6 +56028,7 @@ bbes.xyz
 bbezwjzmjpuk.iecza.vip
 bbfa.maximer.site
 bbfxxx.s3.us-east-005.backblazeb2.com
+bbg.vidible.tv
 bbg5o4.webwave.dev
 bbgc.pasvar.xyz
 bbgtranst.com
@@ -58178,6 +58205,8 @@ benzuniforms.in
 benzylic.xyz
 beoff.me
 beoinvest.tech
+beon.dev.vidible.tv
+beon.vidible.tv
 beonestyle.shop
 beonixom.com
 beoofo.pairs.lv
@@ -70359,6 +70388,8 @@ bsesrajdhani.com
 bsetuserexperience.wixsite.com
 bsever1.no-ip.org
 bsexal.no-ip.biz
+bsf-stage.vidible.tv
+bsf.vidible.tv
 bsfadmin.org
 bsfbtkbcskldw.xyz
 bsfeuihxrczte.space
@@ -78505,6 +78536,7 @@ cdn-shopify.com
 cdn-smtp.com
 cdn-social.janrain.com
 cdn-solution.net
+cdn-ssi.vidible.tv
 cdn-staging.convertkit.com
 cdn-stg.r-adimg.com
 cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com
@@ -78516,6 +78548,7 @@ cdn-webhub.com
 cdn-wfs-nspod.com
 cdn-xinghuatupian-cdn.com
 cdn-yahooapi.com
+cdn-ycs.vidible.tv
 cdn.007moms.com
 cdn.1120057983.world
 cdn.1vag.com
@@ -78849,6 +78882,7 @@ cdn1e699bdc.com
 cdn1sitescout.edgesuite.net
 cdn2-1.imcmdb.smi2.net
 cdn2-1.net
+cdn2-ssl.vidible.tv
 cdn2-state-upd.com
 cdn2-svr-state.com
 cdn2.act-on.com
@@ -78864,6 +78898,7 @@ cdn2.sailfish.media
 cdn2.sales-frontier.com
 cdn2.shareitgames.com
 cdn2.topankovo.sk
+cdn2.vidible.tv
 cdn2.wf
 cdn2.wshareit.com
 cdn22904910.ahacdn.me
@@ -82102,6 +82137,7 @@ cheezwhiz.z9.web.core.windows.net
 cheezydaboss.no-ip.org
 chef.getmenoo.com
 chef.newtrina.com
+chef.vidible.tv
 chefandrew.com
 chefbenhk.com
 chefbowmeow.com
@@ -87770,6 +87806,8 @@ cnrdn.com
 cnredg.xyz
 cnri.dk
 cnrp7.org
+cns.stage.vidible.tv
+cns.vidible.tv
 cnsehl.uno
 cnsg-host.com
 cnshiw2.com
@@ -90058,6 +90096,7 @@ commoman.zapto.org
 commomlit.com
 common-criteria-isac.com
 common.duapps.com
+common.vidible.tv
 commoncannon.com
 commonlit.app
 commonprenatal.link
@@ -90792,6 +90831,7 @@ comyourlens.com
 con.com
 con.net
 con.servehttp.com
+con.vidible.tv
 con2dapps.com
 conahcherry445.top
 conahdavila1233.top
@@ -91914,6 +91954,8 @@ construtrabajo.com
 construyendovidas.org
 consty.ddns.net
 consubslitinche.tk
+consul-stage.vidible.tv
+consul.vidible.tv
 consulenzapratiche.com
 consulfrance-edimbourg.org
 consulswaniand.click
@@ -109122,6 +109164,8 @@ db-registry.com
 db-registry.net
 db-whoisit.com
 db-z.fr
+db.content-learn-history-stage.vidible.tv
+db.content-learn-history.vidible.tv
 db.puttme.gq
 db.rikaz.tech
 db033pq6bj64g.cloudfront.net
@@ -111448,6 +111492,8 @@ delivery-olx.ml
 delivery-pl-olx.site
 delivery-pl.com
 delivery-rescheduleups8273892861.com
+delivery-vpc-a.vidible.tv
+delivery-vpc-b.vidible.tv
 delivery-yandex.ru
 delivery.ads.gfsrv.net
 delivery.adsterra.org
@@ -111465,6 +111511,7 @@ delivery.careersandaim.com
 delivery.chartisland.com
 delivery.coastalmm.com
 delivery.dablpopil.com
+delivery.dev.vidible.tv
 delivery.dicksuckin.com
 delivery.digitalanal.com
 delivery.doisongphapluat.com.vn
@@ -111505,6 +111552,7 @@ delivery.sexyxxx.biz
 delivery.shopfiygo.com
 delivery.shopsa1.com
 delivery.spiritfallband.com
+delivery.stage.vidible.tv
 delivery.swid.switchads.com
 delivery.tables2to20.com
 delivery.tiffanysescorts.com
@@ -112182,6 +112230,7 @@ dentofinauk.shop
 dentonpersonalinjury.com
 dentonpersonalinjurylawyers.com
 dentreport.biz
+dentsu.vidible.tv
 dentwithought.com
 dentyfikacja-uzytkownika.space
 denunciajeans.com
@@ -116176,7 +116225,6 @@ direct-mail.info
 direct-mail.top
 direct-marketing.ml
 direct-pro.space
-direct-re2.pl
 direct-specific.com
 direct-trojan.com
 direct-xxx-access.com
@@ -124028,6 +124076,7 @@ dtb5ns.webwave.dev
 dtbooks.site
 dtc-330d.com
 dtc-v6t.com
+dtc.vidible.tv
 dtcc.fr
 dtcckicxocysk.cloudfront.net
 dtceto.site
@@ -131108,6 +131157,7 @@ elasticdockline.com
 elasticducks.com
 elasticfrustration.com
 elasticmodulus.com
+elasticsearch.dev.vidible.tv
 elasticum.xyz
 elastit.com
 elatadesan.ml
@@ -131653,6 +131703,7 @@ elitiorecfreetoo.cc
 elitist.no-ip.biz
 elitistcompensationstretched.com
 elitistrawirresistible.com
+elivery.vidible.tv
 elivo.info
 elixefx.com
 elixeos.xyz
@@ -134065,6 +134116,7 @@ enfreine.com
 enfuck.com
 enfusion.cam
 eng-sub.xyz
+engadget.vidible.tv
 engage.3m.co.cr
 engage.3m.co.id
 engage.3m.co.ke
@@ -134643,6 +134695,9 @@ ensanz.com
 ensateshalt.uno
 ensban.com
 ensdreare.com
+ense-prod.vidible.tv
+ense-stage.vidible.tv
+ense.vidible.tv
 enseade.ga
 ensearstolons.uno
 ensecure.duckdns.org
@@ -134679,6 +134734,9 @@ ensueswill.com
 ensure00.no-ip.biz
 ensure08062025.shop
 ensureyourauthoritative.yesorno.fr
+ensz-prod.vidible.tv
+ensz-stage.vidible.tv
+ensz.vidible.tv
 ent1.12584.cn
 ent1.qunchua.cn
 ent1.qunchua.com
@@ -134808,6 +134866,7 @@ entisar.no-ip.biz
 entitledbalcony.com
 entitledmiracleernest.com
 entitlements.jwplayer.com
+entity.vidible.tv
 entitygaming.in
 entityget.com
 entityunclaimed.com
@@ -140317,6 +140376,7 @@ exchange.360in.com
 exchange.apprange86-129xroads.b2bmktg.com
 exchange.bg
 exchange.changellenge.info
+exchange.commercialize.vidible.tv
 exchange.happ.social
 exchange.liveperson.net
 exchange.meta.ua
@@ -140325,6 +140385,7 @@ exchange.openmd5.com
 exchange.oufca.com.au
 exchange.pbem.fr
 exchange.smtppark.b2bmktg.com
+exchange.vidible.tv
 exchange03.sendsmtp.com
 exchangead.com
 exchangeallltd.com
@@ -141213,6 +141274,8 @@ extad.info
 extafiles.com
 extanded.no-ip.org
 extantlaws.com
+extauth.stage.vidible.tv
+extauth.vidible.tv
 extazc.no-ip.org
 extazchf.no-ip.org
 extcoolff.com
@@ -160247,6 +160310,9 @@ gdoogle.com
 gdownpack.jomodns.com
 gdpj8lm2t.com
 gdpr-service.herokuapp.com
+gdpr.openvoice.dev.vidible.tv
+gdpr.openvoice.stage.vidible.tv
+gdpr.openvoice.vidible.tv
 gdqdaintb.ml
 gdqhim.icu
 gdqjyb.acheipneus.com.br
@@ -165085,6 +165151,7 @@ gmrlnd.com
 gmrsnodes.com
 gms-service.info
 gmsail.com
+gmsdigital.vidible.tv
 gmsdluxx.com
 gmservtest.no-ip.biz
 gmsexp.com
@@ -183969,6 +184036,7 @@ healthdiaiog.com
 healthdiet.info
 healtheating.org
 healthexpertfund.com
+healthfeed.vidible.tv
 healthfest.pt
 healthfirsthospitals.com
 healthfit247.com
@@ -196410,6 +196478,7 @@ image.sector.sk
 image.success.bluewolf.com
 image.tx.redbox.com
 image.undsslearnin.org
+image.vidible.tv
 image0226.online
 image91.360doc.com
 imageabroidkal.cloud
@@ -197043,6 +197112,7 @@ img-a2.ak.imagevz.net
 img-c.heytapimage.com
 img-cdn.wshareit.com
 img-google.workers.dev
+img-origin.vidible.tv
 img-screnshot.com
 img-swrpics-ara12.ga
 img.0279.net
@@ -197105,6 +197175,7 @@ img.service.belboon.com
 img.simply.bwin.com
 img.smi2.net
 img.softmedal.com
+img.stage.vidible.tv
 img.tmxcyber.com
 img.ucweb.com
 img.xnxx.com
@@ -202577,6 +202648,9 @@ inlandpiereel.com
 inleadership.co.nz
 inlet1.dsp.world
 inliafa.cf
+inline.dev.vidible.tv
+inline.stage.vidible.tv
+inline.vidible.tv
 inlinefascia.com
 inlmd.com
 inlocomedia.com
@@ -216075,6 +216149,7 @@ k7hk83-fedex.us
 k7k7.co
 k7uyxw5gc1.mentalist.kameleoon.com
 k8.usefto.com
+k8.vidible.tv
 k82.no-ip.biz
 k8381.com
 k864.orovillemr.com
@@ -220071,6 +220146,7 @@ kindking.zapto.org
 kindlaundry.rdtrke.com
 kindlelegalizebreaking.com
 kindleloving.com
+kindlereunion.com
 kindlesseepage.digital
 kindleunfocusedunpaired.com
 kindly-face.pro
@@ -248012,6 +248088,7 @@ matomo.vepg.vn
 matomo.vibb.ax
 matomo.virtuopolitan.com
 matomo.x-srv.de
+matomy.vidible.tv
 matong.buzz
 matorloa.de
 matr.at
@@ -248526,6 +248603,8 @@ maxskins.xyz
 maxsoft.cz
 maxstell.ddns.net
 maxstell321.ddns.net
+maxstream.stage.vidible.tv
+maxstream.vidible.tv
 maxtampa.bid
 maxtechmfg.com
 maxterinfo-co.top
@@ -254393,6 +254472,7 @@ mg.cor.to.it
 mg.dt00.net
 mg.glwxw.net
 mg.sdkbalance.com
+mg.stage.vidible.tv
 mg02-ymail.online
 mg12-login.space
 mg2assetsdev.blob.core.windows.net
@@ -267532,6 +267612,8 @@ mxrtb.com
 mxruqupfueopsmw.su
 mxryddheuisve.store
 mxrz.xyz
+mxs.stage.vidible.tv
+mxs.vidible.tv
 mxspt.com
 mxsuikhqaggf.com
 mxtads.com
@@ -275320,6 +275402,7 @@ newsxx.myvnc.com
 newsy-ben24.ml
 newsy.auto.pl
 newsy.codingwangfeng.com
+newsy.vidible.tv
 newsybiznesowe24h.com
 newsydnia.click
 newsyintera24.medianewsonline.com
@@ -281032,6 +281115,8 @@ nudinar.net
 nudipedcierzo.shop
 nudistrefuged.help
 nudistuncurst.com
+nuditydetector.stage.vidible.tv
+nuditydetector.vidible.tv
 nudnicksfo.pl
 nudzcea.com
 nudziarznieuchronnie.site
@@ -288165,6 +288250,7 @@ omsaygre.bazar
 omsaygvi.bazar
 omsaygyw.bazar
 omsc.kpn.com
+omsdk.stage.vidible.tv
 omshedinjaor.com
 omshellderom.com
 omsteelchd.com
@@ -310216,6 +310302,8 @@ pollresource.com
 pollrokr.net
 polls-input.com
 polls-mega.com
+polls.stage.vidible.tv
+polls.vidible.tv
 polls4companies.com
 polls4members.com
 pollsk-surv.top
@@ -311530,6 +311618,7 @@ portal.sendsmtp.com
 portal.service.account.45-125-66-64.cprapid.com
 portal.slipstreaminc.org
 portal.touchcommerce.com
+portal.vidible.tv
 portal.wufpbk.edu.ng
 portalacid.com
 portalagain.com
@@ -315014,6 +315103,7 @@ prod.report.nacustomerexperience.citi.com
 prod.sound.ag
 prod.tracking.refinitiv.com
 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
+prod.vidible.tv
 prod.webpu.sh
 prod.zenkube.com
 prod01-piwik.firstlook.org
@@ -318364,6 +318454,7 @@ publisher.nextmillennium.io
 publisher.zapr.in
 publisherads.click
 publishercounting.com
+publishers.vidible.tv
 publishhostmap.shop
 publishing.kalooga.com
 publited.com
@@ -330003,6 +330094,7 @@ repo.webengage.com
 repolonsolders.life
 repolsk.xyz
 reporo.net
+report-designer.vidible.tv
 report-edge.agora.io
 report-ps.meettech.net
 report-uma-boat.com
@@ -334402,6 +334494,8 @@ rokrvaibhav.duckdns.org
 roksa.sx
 roksit.net
 rokstargame.com
+roku.stage.vidible.tv
+roku.vidible.tv
 rokuq.com
 rokuro5510.haru31.eyneta.site
 rokuro88.investmentweb.xyz
@@ -338886,6 +338980,7 @@ s3crt.biz
 s3ctur1ty.no-ip.biz
 s3curity.no-ip.org
 s3g6.com
+s3import.vidible.tv
 s3network1.com
 s3nycv.xyz
 s3pe5ye7ri8a.com
@@ -338958,6 +339053,7 @@ s63.bit
 s64254.hostnl02.fornex.host
 s65m.win
 s6birwc.xyz
+s6dl.vidible.tv
 s6hhge.ikwb.com
 s6imd6.webwave.dev
 s6in.cc
@@ -357797,6 +357893,8 @@ smdglo.xyz
 smdistributors.co.za
 smdiyjvdaoikuutdfapu.com
 smdws.cwbank.com
+sme.stage.vidible.tv
+sme.vidible.tv
 smeagle.no-ip.biz
 smeagol.zapto.org
 smearedbin.com
@@ -360951,6 +361049,7 @@ sms.securityprod.com
 sms.sedavisco.com
 sms.sivuv.com
 sms.spacetelec.site
+sms.vidible.tv
 sms0.pw
 sms1.online
 sms1.pw
@@ -361821,6 +361920,7 @@ social-logins.com
 social-network.club
 social-rights.com
 social-sound.net
+social-stage.vidible.tv
 social-store.online
 social-traffic-1.xyz
 social-traffic-2.xyz
@@ -361838,6 +361938,7 @@ social.mobohappy.com
 social.sokrati.com
 social.teradatadmc.com
 social.tinyview.com
+social.vidible.tv
 social1listnews.com
 social2search.com
 social87.com
@@ -361908,6 +362009,8 @@ socialsecret.ru
 socialsecutiry.com
 socialsergsasearchengineranker.com
 socialset.mirtesen.ru
+socialsharing-prod.vidible.tv
+socialsharing-stage.vidible.tv
 socialsnatcher.info
 socialspark.com
 socialstaging.teradatadmc.com
@@ -367612,6 +367715,7 @@ ssl.sc.amc.devk.de
 ssl.sifomedia.se
 ssl.sinergycosmetics.com
 ssl.vci-cfo.com
+ssl.vidible.tv
 ssl.webserviceaward.com
 ssl.zin0.com
 ssl2.ahnlabinc.com
@@ -369837,6 +369941,9 @@ statistics.wibiya.com
 statistics2.begasoft.ch
 statistics22.no-ip.org
 statisticsaccent.com
+statisticsapi-stage.vidible.tv
+statisticsapi.stage.vidible.tv
+statisticsapi.vidible.tv
 statisticsdb.net
 statisticsdemandeddeficit.com
 statisticseither.com
@@ -373359,6 +373466,9 @@ stripmywalls.com
 stripoker.co.il
 strippermona2.no-ip.info
 strippersa.com
+strips.stage.vidible.tv
+strips.vidible.tv
+stripsi.vidible.tv
 stripskeletonsting.com
 stripsraw.site
 stritaschools.com
@@ -373758,6 +373868,7 @@ stuxrmut.site
 stv.videoplaza.tv
 stvbiopr.net
 stvbz.com
+stvideos.vidible.tv
 stvkr.com
 stvufegajgpzy.online
 stw-eu.com
@@ -374100,6 +374211,7 @@ subpunch.live
 subqueryrewinddiscontented.com
 subrede.duckdns.org
 subrolive.com
+subs.vidible.tv
 subs2me.com
 subsalefurrowy.qpon
 subscenecdn8.xyz
@@ -379727,6 +379839,7 @@ tag.unclaimedproperty.delaware.gov
 tag.unclaimedproperty.ks.gov
 tag.unclaimedproperty.nd.gov
 tag.unifyintent.com
+tag.vidible.tv
 tag.voice.zetacx.net
 tag.weezmo.com
 tag.winister.app
@@ -382469,6 +382582,7 @@ teamc.duckdns.org
 teamchat.hopto.org
 teamchoc2.duckdns.org
 teamchuan.com
+teamcity.vidible.tv
 teamcloudcomputing.com
 teamcoc.com
 teamcode.biz
@@ -385445,6 +385559,7 @@ test.thomsonreuters.com
 test.touchcommerce.com
 test.traffic.gov.kn
 test.typoten.com
+test.vidible.tv
 test.webclient4.de
 test.windmar.com
 test.worldwidecleaningsupport.com
@@ -401150,12 +401265,27 @@ trjhgdf6.dns-stuff.com
 trjs2.mediafin.be
 trjtopfullccs.ddns.net
 trjyhdpxtiyia.store
+trk-a.prod.ap-southeast-1.vidible.tv
+trk-a.prod.eu-west-1.vidible.tv
+trk-a.prod.us-east-1.vidible.tv
 trk-ablg.jj3r.in
+trk-ap-southeast-1.vidible.tv
 trk-aspernatur.com
+trk-b.prod.eu-west-1.vidible.tv
 trk-consulatu.com
+trk-elb.vidible.tv
 trk-epicurei.com
+trk-eu-west-1.vidible.tv
 trk-imps.com
 trk-pcweb.api.zaloapp.com
+trk-us-east-1.vidible.tv
+trk-us-west-1.vidible.tv
+trk-vpc-eu-west-1-a.vidible.tv
+trk-vpc-eu-west-1-b.vidible.tv
+trk-vpc-us-east-1-a.vidible.tv
+trk-vpc-us-east-1-b.vidible.tv
+trk-vpc-us-west-1-a.vidible.tv
+trk-vpc-us-west-1-b.vidible.tv
 trk-web.com
 trk.123c.vn
 trk.2ndtrk.com
@@ -401258,6 +401388,7 @@ trk.decido.io
 trk.deliveryredirect.com
 trk.designcon.com
 trk.designnews.com
+trk.dev.vidible.tv
 trk.disability-help-center.com
 trk.disability-relief.org
 trk.dosatron.com
@@ -401410,6 +401541,9 @@ trk.powderandbulksolids.com
 trk.powerdms.com
 trk.prdt.sherlockhr.com
 trk.pro-activ.com
+trk.prod.ap-southeast-1.vidible.tv
+trk.prod.eu-west-1.vidible.tv
+trk.prod.us-east-1.vidible.tv
 trk.protiviti.com
 trk.quantumbusinessnews.com
 trk.reclameaqui.com.br
@@ -401473,6 +401607,7 @@ trk.underarmour.com
 trk.urgentcomm.com
 trk.us.underarmour.com
 trk.vczxvzxc.com
+trk.vidible.tv
 trk.violifefoods.com
 trk.virtwish.com
 trk.wardsauto.com
@@ -412856,6 +412991,7 @@ uspsopaqx.top
 uspsps.club
 uspstracking.com
 uspstrackorder.com
+uspstudios.vidible.tv
 uspumsale.com
 usqkmt.net
 usquicksystools.live
@@ -416048,6 +416184,8 @@ vcczx.masterfuls.xyz
 vcdbfghjdvbfgnfhmgj.weebly.com
 vcdc.com
 vcddkls.biz
+vcdelivery.stage.vidible.tv
+vcdelivery.vidible.tv
 vcdew.com
 vcdfnrfds.proxydns.com
 vcdigital1.online
@@ -416238,6 +416376,8 @@ vdlbqvmwys.sembarriga.com.br
 vdlhxlmqhfafeovqohwrbaskrh.com
 vdlvry.com
 vdlwisawlnxduymklidi.com
+vdm-apiservice.stage.vidible.tv
+vdm-apiservice.vidible.tv
 vdmnpbfylttfvbc.ru
 vdmtbtm.com
 vdmvyu.falk.de
@@ -419252,6 +419392,7 @@ videos.maildin.com
 videos.marksypark.com
 videos.personneltoday.com
 videos.poisedtoshrike.com
+videos2.vidible.tv
 videosafe.myvnc.com
 videosandpopcorn.com
 videoscommercials.com
@@ -419334,7 +419475,6 @@ vidhaze.com
 vidhwvegbikd.xyz
 vidhyaclinic.com
 vidiantec.cl
-vidible.tv
 vidici.ba
 vidigalwlnes.com
 vidigital.ru
@@ -427322,6 +427462,8 @@ vsrghsficmsypyh.cn
 vsrnl.com
 vsrssup.com
 vsrttzvdtihei.site
+vss-stage.vidible.tv
+vss.vidible.tv
 vss6.com
 vssigma.com
 vssl-on.com
@@ -446070,6 +446212,7 @@ www.uyqzlnmdtfpnqskyyvidmllmzauitvaijcgqjldwcwvewjgwfj.com
 www.vemba.com
 www.venture-enterprising.com
 www.videoplaza.tv
+www.vidible.tv
 www.vipmak.com
 www.visionary-agile24.com
 www.visionary-operation365.com
